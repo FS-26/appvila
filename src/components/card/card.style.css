@@ -1,0 +1,16 @@
+/* card */
+.card {
+  padding: 20px;
+  max-width: 350px;
+
+  border: 1px solid gainsboro;
+  border-radius: 10px;
+  background-color: white;
+}
+
+.card-icones {
+  padding: 10px;
+  color: white;
+  background-color: #ff6b81;
+  border-radius: 5px;
+}

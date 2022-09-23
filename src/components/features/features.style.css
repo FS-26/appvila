@@ -1,0 +1,31 @@
+main {
+  background-color: #f3f3f3;
+}
+
+.flexDiv {
+  text-align: center;
+  width: 50%;
+  margin: auto;
+}
+h3 {
+  color: #ff6b81;
+  font-weight: 300;
+}
+
+h2 {
+  font-weight: bold;
+}
+
+p {
+  color: grey;
+  /* font-size: 0.6em; */
+  font-weight: 100;
+  text-align: justify;
+}
+
+#cards {
+  display: flex;
+  justify-content: space-evenly;
+  flex-wrap: wrap;
+  gap: 10px;
+}
